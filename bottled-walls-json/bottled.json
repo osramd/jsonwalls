@@ -2,7 +2,7 @@
   {
     "name": "wall_1",
     "author": "osramd",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls/wall_1.jpg",
+    "url": "https://drive.google.com/file/d/1j9I1N4hAaF0mO-6qqdRyQm2gKQx6PbMR/view?usp=sharing",
     "collections": "ironman",
     "downloadable": true
   },
@@ -10,62 +10,8 @@
     {
     "name": "wall_2",
     "author": "osramd",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls/wall_2.jpg",
+    "url": "https://drive.google.com/file/d/1HRv0_ugA8IUgk6qyxwtl9DVfj-oroEU3/view?usp=sharing",
     "collections": "ironman",
-    "downloadable": true
-  },
-  
-      {
-    "name": "wall_4",
-    "author": "osramd",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls/wall_4.jpg",
-    "collections": "ironman",
-    "downloadable": true
-  },
-  
-      {
-    "name": "wall_5",
-    "author": "osramd",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls/wall_5.jpg",
-    "collections": "ironman",
-    "downloadable": true
-  },
-  
-    {
-    "name": "SuperMarioBros1",
-    "author": "osramd",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls/03-001_SuperMarioBros1.jpg",
-    "thumbnail": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls-thumb/03-001_SuperMarioBros1_thumbs.jpg",
-    "collections": "nes",
-    "downloadable": true
-  },
-  
-      {
-    "name": "Castlevania",
-    "author": "osramd",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls/03-004_Castlevania.jpg",
-    "thumbnail": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls-thumb/03-004_Castlevania_thumb.jpg",
-    "collections": "nes",
-    "downloadable": true
-  },
-  
-  
-      {
-    "name": "Zelda",
-    "author": "osramd",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls/03-003_Zelda.jpg",
-    "thumbnail": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls-thumb/03-003_Zelda_thumb.jpg",
-    "collections": "nes",
-    "downloadable": true
-  },
-  
-  
-      {
-    "name": "SuperMarioBros2",
-    "author": "osramd",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls/03-002_SuperMarioBros2.jpg",
-    "thumbnail": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls-thumb/03-002_SuperMarioBros2_thumb.jpg",
-    "collections": "nes",
     "downloadable": true
   }
   
