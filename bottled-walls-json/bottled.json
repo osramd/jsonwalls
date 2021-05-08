@@ -7,6 +7,14 @@
     "downloadable": true
   },
   
+  {
+    "name": "wall_1",
+    "author": "osramd",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/bottled-walls/03-004_Castlevania.jpg?raw=true",
+    "collections": "ironman",
+    "downloadable": true
+  },
+
     {
     "name": "wall_2",
     "author": "osramd",
