@@ -1,17 +1,33 @@
 [
   {
     "name": "wall_1",
-    "author": "osramd",
-    "url": "https://drive.google.com/file/d/1j9I1N4hAaF0mO-6qqdRyQm2gKQx6PbMR/view?usp=sharing",
-    "collections": "ironman",
+    "author": "Less Is More",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/lessismore-walls/lessismore_wallpaper_1.jpg?raw=true",
+    "collections": "Less Is More",
+    "downloadable": false
+  },
+  
+  {
+    "name": "wall_2",
+    "author": "Less Is More",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/lessismore-walls/lessismore_wallpaper_2.jpg?raw=true",
+    "collections": "Less Is More",
+    "downloadable": true
+  },
+
+  {
+    "name": "wall_3",
+    "author": "Less Is More",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/lessismore-walls/lessismore_wallpaper_3.jpg?raw=true",
+    "collections": "Less Is More",
     "downloadable": true
   },
   
     {
-    "name": "wall_2",
-    "author": "osramd",
-    "url": "https://drive.google.com/file/d/1HRv0_ugA8IUgk6qyxwtl9DVfj-oroEU3/view?usp=sharing",
-    "collections": "ironman",
+    "name": "wall_4",
+    "author": "Less Is More",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/lessismore-walls/lessismore_wallpaper_4.jpg?raw=true",
+    "collections": "Less Is More",
     "downloadable": true
   }
   
