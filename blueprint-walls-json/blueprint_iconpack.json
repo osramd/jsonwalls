@@ -1,34 +1,66 @@
 [
   {
     "name": "wall_1",
-    "author": "Less Is More",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/lessismore-walls/lessismore_wallpaper_1.jpg?raw=true",
-    "collections": "Less Is More",
+    "author": "Blueprints",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_1.jpg?raw=true",
+    "collections": "Blueprints",
     "downloadable": false
   },
   
-  {
+    {
     "name": "wall_2",
-    "author": "Less Is More",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/lessismore-walls/lessismore_wallpaper_2.jpg?raw=true",
-    "collections": "Less Is More",
-    "downloadable": true
+    "author": "Blueprints",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_3.jpg?raw=true",
+    "collections": "Blueprints",
+    "downloadable": false
   },
-
-  {
+  
+    {
     "name": "wall_3",
-    "author": "Less Is More",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/lessismore-walls/lessismore_wallpaper_3.jpg?raw=true",
-    "collections": "Less Is More",
-    "downloadable": true
+    "author": "Blueprints",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_3.jpg?raw=true",
+    "collections": "Blueprints",
+    "downloadable": false
   },
   
     {
     "name": "wall_4",
-    "author": "Less Is More",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/lessismore-walls/lessismore_wallpaper_4.jpg?raw=true",
-    "collections": "Less Is More",
-    "downloadable": true
+    "author": "Blueprints",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_4.jpg?raw=true",
+    "collections": "Blueprints",
+    "downloadable": false
+  },
+    
+    {
+    "name": "wall_5",
+    "author": "Blueprints",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_5.jpg?raw=true",
+    "collections": "Blueprints",
+    "downloadable": false
+  },
+    
+    {
+    "name": "wall_6",
+    "author": "Blueprints",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_6.jpg?raw=true",
+    "collections": "Blueprints",
+    "downloadable": false
+  },
+    
+    {
+    "name": "wall_7",
+    "author": "Blueprints",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_7.jpg?raw=true",
+    "collections": "Blueprints",
+    "downloadable": false
+  },
+    
+    {
+    "name": "wall_8",
+    "author": "Blueprints",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_8.jpg?raw=true",
+    "collections": "Blueprints",
+    "downloadable": false
   }
   
 ]
