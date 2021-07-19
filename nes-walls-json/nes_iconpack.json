@@ -1,65 +1,57 @@
 [
   {
     "name": "wall_1",
-    "author": "Blueprints",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_1.jpg?raw=true",
-    "collections": "Blueprints",
+    "author": "Osramd",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/nes-walls/001_super_mario_bros_1.jpg?raw=true",
+    "collections": "NES",
     "downloadable": false
   },
   
     {
     "name": "wall_2",
-    "author": "Blueprints",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_3.jpg?raw=true",
-    "collections": "Blueprints",
+    "author": "Osramd",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/nes-walls/002_super_mario_bros_2.jpg?raw=true",
+    "collections": "NES",
     "downloadable": false
   },
   
     {
     "name": "wall_3",
-    "author": "Blueprints",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_3.jpg?raw=true",
-    "collections": "Blueprints",
+    "author": "Osramd",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/nes-walls/003_super_mario_bros_3.jpg?raw=true",
+    "collections": "NES",
     "downloadable": false
   },
   
     {
     "name": "wall_4",
-    "author": "Blueprints",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_4.jpg?raw=true",
-    "collections": "Blueprints",
+    "author": "Osramd",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/nes-walls/004_the_legend_of_zelda.jpg?raw=true",
+    "collections": "NES",
     "downloadable": false
   },
     
     {
     "name": "wall_5",
-    "author": "Blueprints",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_5.jpg?raw=true",
-    "collections": "Blueprints",
+    "author": "Osramd",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/nes-walls/005_punchout.jpg?raw=true",
+    "collections": "NES",
     "downloadable": false
   },
     
     {
     "name": "wall_6",
-    "author": "Blueprints",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_6.jpg?raw=true",
-    "collections": "Blueprints",
+    "author": "Osramd",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/nes-walls/006_duck_tales.jpg?raw=true",
+    "collections": "NES",
     "downloadable": false
   },
     
     {
     "name": "wall_7",
-    "author": "Blueprints",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_7.jpg?raw=true",
-    "collections": "Blueprints",
-    "downloadable": false
-  },
-    
-    {
-    "name": "wall_8",
-    "author": "Blueprints",
-    "url": "https://github.com/osramd/jsonwalls/blob/main/blueprint-walls/blueprint_wallpaper_8.jpg?raw=true",
-    "collections": "Blueprints",
+    "author": "Osramd",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/nes-walls/007_castlevania.jpg?raw=true",
+    "collections": "NES",
     "downloadable": false
   }
   
