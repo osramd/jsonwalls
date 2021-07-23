@@ -53,6 +53,15 @@
     "url": "https://github.com/osramd/jsonwalls/blob/main/nes-walls/007_Castlevania.jpg?raw=true",
     "collections": "NES",
     "downloadable": false
+  },
+  
+      {
+    "name": "wall_8",
+    "author": "Osramd",
+    "url": "https://github.com/osramd/jsonwalls/blob/main/nes-walls/008_supermariobros3screen.jpg?raw=true",
+    "collections": "NES",
+    "downloadable": false
   }
+  
   
 ]
